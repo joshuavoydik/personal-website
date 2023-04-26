@@ -1,13 +1,12 @@
 import React from 'react';
+import './Hero.css';
 
 function Hero() {
   return (
-    <section className="hero">
-      <div className="hero-content">
-        <h1>Hi, I'm [Name].</h1>
-        <p>I'm a [Job Title] based in [Location].</p>
-      </div>
-    </section>
+    <div className="hero">
+      <h1>Welcome to My Personal Website</h1>
+      <p>Discover my writings, newsletter, and more!</p>
+    </div>
   );
 }
 

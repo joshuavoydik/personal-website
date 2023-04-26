@@ -1,9 +1,8 @@
 import React from 'react';
 import Header from './Header';
-import Hero from './Hero';
 import Writing from './WritingPage';
-import Newsletter from './Newsletter';
-import Contact from './Contact';
+import Newsletter from './NewsletterPage';
+import Contact from './ContactPage';
 import Footer from './Footer';
 
 function Home() {
