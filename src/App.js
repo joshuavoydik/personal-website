@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Home from './home';
-import WritingPage from './WritingPage';
-import NewsletterPage from './NewsletterPage';
-import ContactPage from './ContactPage';
+import Home from './Home';
+import WritingPage from '.src//WritingPage';
+import NewsletterPage from '.src/NewsletterPage';
+import ContactPage from '.src/ContactPage';
 
 function App() {
   return (
